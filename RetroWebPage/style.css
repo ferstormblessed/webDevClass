@@ -24,8 +24,9 @@ body, html {
 }
 
 h1 {
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-family:Verdana, Tahoma, sans-serif;
     font-weight: bolder;
     font-size: 50px;
     color: rgb(0, 0, 0);
+    text-shadow: 2px 2px 2px white;
 }
